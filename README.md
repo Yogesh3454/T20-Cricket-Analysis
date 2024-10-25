@@ -12,28 +12,28 @@ The dataset includes player-specific statistics for T20 matches, focusing on bot
 ### **Key Project Components**
   #### **Opening Batter:**
 
-    DAX-driven calculations for strike rate, boundary percentage, and average balls faced for openers.
-    Comparative visuals showing top-order players’ early-game impact.
+  DAX-driven calculations for strike rate, boundary percentage, and average balls faced for openers.
+  Comparative visuals showing top-order players’ early-game impact.
     
   #### **Middle Order Batter:**
 
-    Custom measures for middle-order strike rate, boundary efficiency, and batting average.
-    Highlights the role adaptability and reliability of players during mid-game.
+  Custom measures for middle-order strike rate, boundary efficiency, and batting average.
+  Highlights the role adaptability and reliability of players during mid-game.
     
   #### **Finisher:**
 
-    Metrics like late-innings strike rate and boundary percentage, calculated using DAX.
-    Insights into high-pressure performance, essential for evaluating finishing ability.
+  Metrics like late-innings strike rate and boundary percentage, calculated using DAX.
+  Insights into high-pressure performance, essential for evaluating finishing ability.
     
   #### **Spin Bowler:**
 
-    DAX formulas calculate economy rate, dot ball percentage, and wicket-taking efficiency.
-    Assessment of spinners' run-restriction skills and wicket-taking potential.
+  DAX formulas calculate economy rate, dot ball percentage, and wicket-taking efficiency.
+  Assessment of spinners' run-restriction skills and wicket-taking potential.
 
   #### **Fast Bowler:**
 
-    Custom metrics for economy, dot ball percentage, and bowling strike rate.
-    Analysis of pace bowlers’ impact on maintaining run rates and delivering wickets.
+  Custom metrics for economy, dot ball percentage, and bowling strike rate.
+  Analysis of pace bowlers’ impact on maintaining run rates and delivering wickets.
 
 ### **Screenshots**
 Explore key visuals from the project below:
