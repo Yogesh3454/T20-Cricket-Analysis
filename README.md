@@ -40,23 +40,23 @@ Explore key visuals from the project below:
 
 **Opening Batter Analysis:**
 
-!(Opening Batter Analysis)[https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/opening%20Batter.png]
+![Opening Batter Analysis](https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/opening%20Batter.png)
 
 **Middle Order Batter Analysis:**
 
-!(Middle Order Batter Analysis)[https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/Midddle%20Order.png]
+![Middle Order Batter Analysis](https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/Midddle%20Order.png)
 
 **Finisher Analysis:**
 
-!(Finisher Analysis)[https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/finishers.png]
+![Finisher Analysis](https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/finishers.png)
 
 **Spin Bowler Analysis:**
 
-!(Spin Bowler Analysis)[https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/Spin%20Bowler.png]
+![Spin Bowler Analysis](https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/Spin%20Bowler.png)
 
 **Fast Bowler Analysis:**
 
-!(Fast Bowler Analysis)[https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/Fast%20Bowler.png]
+![Fast Bowler Analysis](https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/Fast%20Bowler.png)
 
 ## **Features and Metrics**
 
