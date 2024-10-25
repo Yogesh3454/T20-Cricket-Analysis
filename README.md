@@ -7,7 +7,7 @@ This Power BI report provides a breakdown of T20 cricket performances across fiv
 ### **Dataset**
 The dataset includes player-specific statistics for T20 matches, focusing on both batting and bowling. You can download the dataset from the following link:
 
--[Dataset is Here....]()
+- [Dataset is Here....](https://github.com/Yogesh3454/T20-Cricket-Analysis)
 
 ### **Key Project Components**
   #### **Opening Batter:**
@@ -38,15 +38,25 @@ The dataset includes player-specific statistics for T20 matches, focusing on bot
 ### **Screenshots**
 Explore key visuals from the project below:
 
-Opening Batter Analysis
+**Opening Batter Analysis:**
 
-Middle Order Batter Analysis
+!(Opening Batter Analysis)[https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/opening%20Batter.png]
 
-Finisher Analysis
+**Middle Order Batter Analysis:**
 
-Spin Bowler Analysis
+!(Middle Order Batter Analysis)[https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/Midddle%20Order.png]
 
-Fast Bowler Analysis
+**Finisher Analysis:**
+
+!(Finisher Analysis)[https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/finishers.png]
+
+**Spin Bowler Analysis:**
+
+!(Spin Bowler Analysis)[https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/Spin%20Bowler.png]
+
+**Fast Bowler Analysis:**
+
+!(Fast Bowler Analysis)[https://github.com/Yogesh3454/T20-Cricket-Analysis/blob/main/Fast%20Bowler.png]
 
 ## **Features and Metrics**
 
