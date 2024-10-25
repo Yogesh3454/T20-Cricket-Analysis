@@ -7,10 +7,10 @@ This Power BI report provides a breakdown of T20 cricket performances across fiv
 ### **Dataset**
 The dataset includes player-specific statistics for T20 matches, focusing on both batting and bowling. You can download the dataset from the following link:
 
-- (Download Dataset)[]
+-(Download Dataset)[]
 
 ### **Key Project Components**
-  ### **Opening Batter:**
+  #### **Opening Batter:**
 
     DAX-driven calculations for strike rate, boundary percentage, and average balls faced for openers.
     Comparative visuals showing top-order players’ early-game impact.
